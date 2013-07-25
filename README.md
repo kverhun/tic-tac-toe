@@ -9,3 +9,5 @@ Includes Server and Client applications.
  - two players
  
 Opengl-based GUI: uses controls, implemented using only opengl functions.
+
+Developed during 2013, April.
